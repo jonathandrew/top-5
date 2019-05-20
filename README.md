@@ -1,1 +1,3 @@
-# top-5
+So everything went well for this project despite the little learning curve of using a mac. I had one rather nuisance that i cant really explain how it happened. During the procress of copying and pasting the links of the images I noticed an absurd file that was 20X longer than normal (and was'nt JPG). Figuring I must of input something wrong, tried again and same result. this happened quite a few times from files i previously had a jpg file for (double checked to not lose track of where i was). Can you give me some clarity on what might've happened. 99% sure it was user error so if i know what it was or maybe how to dodge it completely, would help me out as i thought i was doing the copying and paste to the T.
+
+-Drew
